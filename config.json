@@ -11,7 +11,7 @@
     "UTC":8,
     "allHead":"",
     "script":"",
-    "style":"",
+    "style":"html[data-theme='dark']{background:#0c0c0c;color:#e8e8e8} html[data-theme='light']{background:#f7f7f7;color:#111}",
     "bottomText":"Copyright © 2026 何芋呈 | Powered by GITHUB Gmeek",
     "GMEEK_VERSION":"last"
 }
