@@ -1,6 +1,17 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"My Blog",
+    "subTitle":"我在github白嫖的😍😍",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "startSite":"07/16/2026",
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"dark",
+    "urlMode":"pinyin",
+    "needComment":1,
+    "UTC":8,
+    "allHead":"",
+    "script":"",
+    "style":"",
+    "bottomText":"Copyright © 2026 何芋呈 | Powered by GITHUB Gmeek",
     "GMEEK_VERSION":"last"
 }
